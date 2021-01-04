@@ -1,0 +1,21 @@
+body {
+      font-family: 'Roboto', sans-serif;
+    } 
+h1{
+    font-size: 35px;;
+}
+.name{color: orange;}
+.wel-left{
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+
+}
+.wel-right{
+    width: 40%;
+float: left;
+}
+.wel-right img{
+    width: 100%;
+}
+p{font-family: 'Alfa Slab One', cursive;}
