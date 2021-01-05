@@ -1,21 +1,29 @@
 body {
       font-family: 'Roboto', sans-serif;
+      margin: 0px;
     } 
 h1{
     font-size: 35px;;
 }
 .name{color: orange;}
-.wel-left{
+.left{
     width: 40%;
     float: left;
     padding-left: 5%;
 
 }
-.wel-right{
+.right{
     width: 40%;
 float: left;
 }
-.wel-right img{
+.right img{
     width: 100%;
 }
 p{font-family: 'Alfa Slab One', cursive;}
+.welcome{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
